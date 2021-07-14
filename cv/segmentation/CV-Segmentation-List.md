@@ -1,6 +1,6 @@
 [toc]
 ## 1. Polarized Self-Attention: Towards High-quality Pixel-wise Regression
-Main idea:通道注意力+空间注意力
+**Main idea:通道注意力+空间注意力**
 
 ![image](https://cdn.jsdelivr.net/gh/leader402/image@main/image/screenShots/1626273404691-1626273404683-_20210714221842.jpg)
 
