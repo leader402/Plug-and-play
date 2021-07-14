@@ -1,0 +1,6 @@
+List：
+
+2. Polarized Self-Attention: Towards High-quality Pixel-wise Regression
+Paper:https://arxiv.org/pdf/2107.00782.pdf
+Code1:https://github.com/xmu-xiaoma666/External-Attention-pytorch/blob/master/attention/PolarizedSelfAttention.py
+Code2:https://github.com/DeLightCMU/PSA   
