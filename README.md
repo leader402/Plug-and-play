@@ -14,16 +14,16 @@ Plug and play transformer
 
 | Name                                        | Paper                                      | Tutorial                                                     |
 | ------------------------------------------- | ------------------------------------------ | ------------------------------------------------------------ |
-| Squeeze-and-Excitation                      | Paper:https://arxiv.org/pdf/1709.01507.pdf | https://github.com/leader402/Plug-and-play/blob/main/cv/tutorial/SE.py |
-| Polarized Self-Attention                    | Paper:https://arxiv.org/pdf/2107.00782.pdf | https://github.com/leader402/Plug-and-play/blob/main/cv/tutorial/PSA.py |
-| Dual Attention Network                      | Paper:https://arxiv.org/pdf/1809.02983.pdf | https://github.com/leader402/Plug-and-play/blob/main/cv/tutorial/DaNet.py |
-| Self-attention                              |                                            |                                                              |
-| Masked self-attention                       |                                            |                                                              |
-| Multi-head attention                        |                                            |                                                              |
-| Attention based deep learning architectures |                                            |                                                              |
-| Single-channel model                        |                                            |                                                              |
-| Multi-channel model                         |                                            |                                                              |
-| Skip-layer model                            |                                            |                                                              |
-| Bottom-up/top-down model                    |                                            |                                                              |
-| CBAM: Convolutional Block Attention Module  |                                            |                                                              |
+| 1. Squeeze-and-Excitation                   | Paper:https://arxiv.org/pdf/1709.01507.pdf | https://github.com/leader402/Plug-and-play/blob/main/cv/tutorial/SE.py |
+| 2. Polarized Self-Attention                 | Paper:https://arxiv.org/pdf/2107.00782.pdf | https://github.com/leader402/Plug-and-play/blob/main/cv/tutorial/PSA.py |
+| 3. Dual Attention Network                   | Paper:https://arxiv.org/pdf/1809.02983.pdf | https://github.com/leader402/Plug-and-play/blob/main/cv/tutorial/DaNet.py |
+| 4. Self-attention                           |                                            |                                                              |
+| 5. Masked self-attention                    |                                            |                                                              |
+| 6. Multi-head attention                     |                                            |                                                              |
+| 7. Attention based deep learning architectures |                                            |                                                              |
+| 8. Single-channel model                     |                                            |                                                              |
+| 9. Multi-channel model                      |                                            |                                                              |
+| 10.Skip-layer model                         |                                            |                                                              |
+| 11.Bottom-up/top-down model                 |                                            |                                                              |
+| 12.CBAM: Convolutional Block Attention Module|                                            |                                                              |
 
