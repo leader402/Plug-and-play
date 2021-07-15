@@ -23,7 +23,7 @@ Plug and play transformer
 | 7. Attention based deep learning architectures |                                            |                                                              |
 | 8. Single-channel model                     |                                            |                                                              |
 | 9. Multi-channel model                      |                                            |                                                              |
-| 10.Skip-layer model                         |                                            |                                                              |
-| 11.Bottom-up/top-down model                 |                                            |                                                              |
-| 12.CBAM: Convolutional Block Attention Module|                                            |                                                              |
+| 10. Skip-layer model                        |                                            |                                                              |
+| 11. Bottom-up/top-down model                |                                            |                                                              |
+| 12. CBAM: Convolutional Block Attention Module|                                            |                                                              |
 
