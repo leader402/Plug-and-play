@@ -5,7 +5,7 @@ Plug and play transformer
 **Survey:**
 |  Name                      | Paper           | Time           |
 |----------------------------| ----------------| ---------------|
-| Transformers in Vision: A Survey (v1,v2) | Paper:https://arxiv.org/abs/2101.01169  |    <div style="width: 150pt">   2021-01-05    </div>     |
+| Transformers in Vision: A Survey (v1,v2) | Paper:https://arxiv.org/abs/2101.01169  |    <div style="width: 200pt">   2021-01-05    </div>     |
 | Attention mechanisms and deep learning for machine vision:A survey of the state of the art   | Paper:https://arxiv.org/abs/2106.07550 |         2021-06-05       |
 <br />
 <br />
