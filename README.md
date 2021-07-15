@@ -19,7 +19,7 @@ The following is to quickly retrieve the core code of the plug-and-play module
 <br />
 
 
-| Name                                        | Paper                                      | Tutorial                                                     |
+| Name                                        | Paper  Link                                | Tutorial                                                     |
 | ------------------------------------------- | ------------------------------------------ | ------------------------------------------------------------ |
 | 1. Squeeze-and-Excitation                   | Paper:https://arxiv.org/pdf/1709.01507.pdf | https://github.com/leader402/Plug-and-play/blob/main/cv/tutorial/SE.py |
 | 2. Polarized Self-Attention                 | Paper:https://arxiv.org/pdf/2107.00782.pdf | https://github.com/leader402/Plug-and-play/blob/main/cv/tutorial/PSA.py |
@@ -32,5 +32,5 @@ The following is to quickly retrieve the core code of the plug-and-play module
 | 9. Multi-channel model                      |                                            |                                                              |
 | 10. Skip-layer model                        |                                            |                                                              |
 | 11. Bottom-up/top-down model                |                                            |                                                              |
-| 12. CBAM: Convolutional Block Attention Module| Paper:https://arxiv.org/abs/1807.06521   | https://github.com/leader402/Plug-and-play/blob/main/cv/tutorial/CBAM.py  |
+| 12. CBAM: Convolutional Block Attention Module| [CBAM](https://arxiv.org/abs/1807.06521) | https://github.com/leader402/Plug-and-play/blob/main/cv/tutorial/CBAM.py  |
 
