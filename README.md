@@ -25,5 +25,5 @@ Plug and play transformer
 | 9. Multi-channel model                      |                                            |                                                              |
 | 10. Skip-layer model                        |                                            |                                                              |
 | 11. Bottom-up/top-down model                |                                            |                                                              |
-| 12. CBAM: Convolutional Block Attention Module|                                            |                                                              |
+| 12. CBAM: Convolutional Block Attention Module| Paper:https://arxiv.org/abs/1807.06521   | https://github.com/leader402/Plug-and-play/blob/main/cv/tutorial/CBAM.py  |
 
