@@ -25,8 +25,8 @@ Code:https://github.com/hujie-frank/SENet
 ### 12. CBAM: Convolutional Block Attention Module
 
 **Main idea:通道注意力(双池化+MLP)+空间注意力**
-
-![image](https://cdn.jsdelivr.net/gh/leader402/image@main/image/screenShots/1626273404691-1626273404683-_20210714221842.jpg)
+![CBAM](./pic/CBAM.png)
+![CBAM](./pic/CBAM2.png)
 
 Paper:https://arxiv.org/abs/1807.06521
 Code1:https://github.com/luuuyi/CBAM.PyTorch/blob/master/model/resnet_cbam.py
