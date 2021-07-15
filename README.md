@@ -20,17 +20,17 @@ The following is to quickly retrieve the core code of the plug-and-play module
 
 
 | Name                                        | Paper  Link                 | Main idea                    | Tutorial                                       |
-| ------------------------------------------- | ----------------------------|------------------------------| -----------------------------------------------|
-| 1. Squeeze-and-Excitation                   | [SE](https://arxiv.org/pdf/1709.01507.pdf )|                |https://github.com/leader402/Plug-and-play/blob/main/cv/tutorial/SE.py |
-| 2. Polarized Self-Attention                 | [PSA](https://arxiv.org/pdf/2107.00782.pdf)|                |   https://github.com/leader402/Plug-and-play/blob/main/cv/tutorial/PSA.py |
-| 3. Dual Attention Network                   | [DaNet](https://arxiv.org/pdf/1809.02983.pdf)|              | https://github.com/leader402/Plug-and-play/blob/main/cv/tutorial/DaNet.py |
-| 4. Self-attention                           |                                            |   |                                                           |
-| 5. Masked self-attention                    |                                            |   |                                                           |
-| 6. Multi-head attention                     |                                            |    |                                                          |
-| 7. Attention based deep learning architectures |                                            |  |                                                            |
-| 8. Single-channel model                     |                                            |      |                                                        |
-| 9. Multi-channel model                      |                                            |       |                                                       |
-| 10. Skip-layer model                        |                                            |       |                                                       |
-| 11. Bottom-up/top-down model                |                                            |       |                                                       |
+| ------------------------------------------- | ----------------------------|------------------------------| ---------------------------------------------- |
+| 1. Squeeze-and-Excitation                   | [SE](https://arxiv.org/pdf/1709.01507.pdf )|               | https://github.com/leader402/Plug-and-play/blob/main/cv/tutorial/SE.py |
+| 2. Polarized Self-Attention                 | [PSA](https://arxiv.org/pdf/2107.00782.pdf)|               | https://github.com/leader402/Plug-and-play/blob/main/cv/tutorial/PSA.py |
+| 3. Dual Attention Network                   | [DaNet](https://arxiv.org/pdf/1809.02983.pdf)| 通道注意力和空间注意力 | https://github.com/leader402/Plug-and-play/blob/main/cv/tutorial/DaNet.py |
+| 4. Self-attention                           |                                            |               |                                                  |
+| 5. Masked self-attention                    |                                            |               |                                                  |
+| 6. Multi-head attention                     |                                            |               |                                                  |
+| 7. Attention based deep learning architectures |                                         |               |                                                  |
+| 8. Single-channel model                     |                                            |               |                                                  |
+| 9. Multi-channel model                      |                                            |               |                                                  |
+| 10. Skip-layer model                        |                                            |               |                                                  |
+| 11. Bottom-up/top-down model                |                                            |               |                                                  |
 | 12. CBAM: Convolutional Block Attention Module| [CBAM](https://arxiv.org/abs/1807.06521) |         | https://github.com/leader402/Plug-and-play/blob/main/cv/tutorial/CBAM.py  |
 
