@@ -10,10 +10,11 @@ The following is to quickly retrieve the core code of the plug-and-play module
 
 ### CV：
 **Survey:**
-|  Name                      | Paper           | Time           |
-|----------------------------| ----------------| ---------------|
-| Transformers in Vision: A Survey (v1,v2) | Paper:https://arxiv.org/abs/2101.01169  |    <div style="width: 200pt">   2021-01-05    </div>     |
+|  Name    | Paper  | Time     |
+| -------- | ------ | -------- |
+| Transformers in Vision: A Survey (v1,v2) | Paper:https://arxiv.org/abs/2101.01169  |     2021-01-05       |
 | Attention mechanisms and deep learning for machine vision:A survey of the state of the art   | Paper:https://arxiv.org/abs/2106.07550 |         2021-06-05       |
+
 <br />
 <br />
 <br />
