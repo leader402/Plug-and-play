@@ -38,3 +38,17 @@ Paper:https://arxiv.org/abs/1807.06521
 
 Code1:https://github.com/luuuyi/CBAM.PyTorch/blob/master/model/resnet_cbam.py
 
+
+### 14. CBAM: Convolutional Block Attention Module
+
+**Main idea:通道注意力(双池化+MLP)+空间注意力**
+
+![CBAM](./pic/axial-attention1.png)
+
+![CBAM](./pic/axial-attention2.png)
+
+Paper:https://arxiv.org/abs/2003.07853
+
+Code:https://github.com/csrhddlam/axial-deeplab/blob/master/lib/models/axialnet.py
+
+
