@@ -35,4 +35,5 @@ The following is to quickly retrieve the core code of the plug-and-play module
 | 11. Bottom-up/top-down model                |                                            |               |                                                  |
 | 12. CBAM: Convolutional Block Attention Module| [CBAM-2018](https://arxiv.org/abs/1807.06521) |         | https://github.com/leader402/Plug-and-play/blob/main/cv/tutorial/CBAM.py  |
 | 13. non-local netural network                |                                            |               |                                                  |
+| 14. Axial-DeepLab: Stand-Alone Axial-Attention for Panoptic Segmentation  |                                            |     使用了位置偏移       |                                                  |
 
