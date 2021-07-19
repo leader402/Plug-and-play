@@ -22,7 +22,7 @@ Code2:https://github.com/DeLightCMU/PSA
 Paper:https://arxiv.org/pdf/1709.01507.pdf
 
 Code:https://github.com/hujie-frank/SENet
-### 3.Self-attention CV
+### 4.Self-attention CV
 ![image](https://user-images.githubusercontent.com/34624932/126118169-b1153135-b2f4-477f-a2ad-4cc4802cf649.png)
 from：https://zhuanlan.zhihu.com/p/283125663
 
