@@ -24,7 +24,7 @@ The following is to quickly retrieve the core code of the plug-and-play module
 | 1. Squeeze-and-Excitation                   | [SE-2017](https://arxiv.org/pdf/1709.01507.pdf )|               | https://github.com/leader402/Plug-and-play/blob/main/cv/tutorial/SE.py |
 | 2. Polarized Self-Attention                 | [PSA-2021](https://arxiv.org/pdf/2107.00782.pdf)|               | https://github.com/leader402/Plug-and-play/blob/main/cv/tutorial/PSA.py |
 | 3. Dual Attention Network                   | [DaNet-2018](https://arxiv.org/pdf/1809.02983.pdf)| 通道注意力和空间注意力 | https://github.com/leader402/Plug-and-play/blob/main/cv/tutorial/DaNet.py |
-| 4. Self-attention                           |  [DaNet-2018](https://arxiv.org/abs/1706.03762)|  Query Value Key             | https://github.com/leader402/Plug-and-play/blob/main/cv/tutorial/self-attention.py                                                 |
+| 4. Self-attention                           |  [Attention is all u need](https://arxiv.org/abs/1706.03762)|  Query Value Key             | https://github.com/leader402/Plug-and-play/blob/main/cv/tutorial/self-attention.py                                                 |
 | 5. Masked self-attention                    |                                            |               |                                                  |
 | 6. Multi-head attention                     |                                            |               |                                                  |
 | 7. Attention based deep learning architectures |                                         |               |                                                  |
